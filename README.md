@@ -3,7 +3,7 @@
 A browser-based tool that scores a password out of 100 and shows which
 rules it passes or fails, in real time.
 
-**Live demo:** [https://YOUR-USERNAME.github.io/password-strength-checker/](https://us9785.github.io/password-strength-checker/)
+**Live demo:**(https://us9785.github.io/password-strength-checker/)
 
 ![Screenshot](screenshot.png)
 
